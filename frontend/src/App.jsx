@@ -32,7 +32,7 @@ function App() {
   return (
     <>
       <header>
-        <h1>Sherlock<span> Code</span></h1>
+        <h1>Syntax<span> Eye</span></h1>
       </header>
 
       <main>
